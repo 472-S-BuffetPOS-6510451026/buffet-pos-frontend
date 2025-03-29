@@ -1,3 +1,4 @@
+'use client';
 import { BaseMenuResponse } from "@/interfaces/menu";
 import MenuCard from "./MenuCard";
 

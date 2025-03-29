@@ -1,3 +1,4 @@
+'use client';
 import { ReactNode } from "react";
 import StaffRequestStatus from "@/components/user/StaffRequestStatus";
 import { useGetTable } from "@/api/user/useTable";
