@@ -1,3 +1,4 @@
+'use client';
 import { OrderItemResponse } from "@/interfaces/order";
 import MenuConfirmCard from "./MenuCompleteCard";
 import { useEffect } from "react";
